@@ -8,3 +8,6 @@ la commande : dotnet sln add EvaluationSampleCode.Tests/EvaluationSampleCode.Tes
 <!-- commande exécution des tests : dotnet test EvaluationSampleCode.Tests/EvaluationSampleCode.Tests.csproj -->
 
 <!--  pour les normes de nommage vu ensemble je ne les connais pas du coup j'ai repris le nom de chaque classe et j'ai ajouté Tests -->
+
+<!-- j'ai pas compris la pull requst c'est pas ce que j'ai fais ?
+L'exercei n'est pas fini  -->
