@@ -1,0 +1,14 @@
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.deps.json
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.runtimeconfig.json
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.dll
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/bin/Debug/net8.0/EvaluationSampleCode.pdb
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.AssemblyInfoInputs.cache
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.AssemblyInfo.cs
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.csproj.CoreCompileInputs.cache
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.dll
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/refint/EvaluationSampleCode.dll
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.pdb
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/EvaluationSampleCode.genruntimeconfig.cache
+/Users/noemierosenkranz/Downloads/PratiqueWithCode_Groupe2_Subject-2/EvaluationSampleCode/obj/Debug/net8.0/ref/EvaluationSampleCode.dll
